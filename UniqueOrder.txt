@@ -1,0 +1,16 @@
+dasyuromorphia
+afrosoricida
+hyracoidea
+sirenia
+cingulata
+pilosa
+scandentia
+primates
+rodentia
+lagomorpha
+erinaceomorpha
+soricomorpha
+chiroptera
+carnivora
+artiodactyla
+cetacea
